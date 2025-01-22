@@ -39,6 +39,3 @@ Proje, sistem analizi ve tasarımı ilkeleri doğrultusunda geliştirilmiştir. 
 Proje, kullanıcı dostu bir arayüz ve işlevsellik sağlamak amacıyla çeşitli modüllere ayrılmıştır. Her modül, kullanıcıların sistemle etkili bir şekilde etkileşim kurmalarını sağlamak için tasarlanmıştır.
 
 
-## Lisans
-
-Bu proje, [MIT Lisansı](LICENSE) altında lisanslanmıştır.
